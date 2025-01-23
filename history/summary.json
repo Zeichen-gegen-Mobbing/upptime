@@ -40,17 +40,19 @@
     "url": "https://jans-allerlei.de/test.html",
     "icon": "https://icons.duckduckgo.com/ip3/jans-allerlei.de.ico",
     "slug": "test-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 889,
+    "timeDay": 889,
+    "timeWeek": 889,
+    "timeMonth": 889,
+    "timeYear": 889,
+    "dailyMinutesDown": {
+      "2025-01-23": 0
+    }
   }
 ]
