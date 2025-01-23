@@ -7,6 +7,8 @@ sites:
     url: https://zeichen-gegen-mobbing.de
   - name: Url Shortener
     url: https://z-g-m.de/spenden
+    assignees:
+      - WhiteTomX
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
