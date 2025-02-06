@@ -22,9 +22,9 @@
     "url": "https://z-g-m.de/spenden",
     "icon": "https://icons.duckduckgo.com/ip3/z-g-m.de.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2299,
     "timeMonth": 2190,
     "timeYear": 2190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "Test Website",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jans-allerlei.de.ico",
     "slug": "test-website",
     "status": "down",
-    "uptime": "0.78%",
+    "uptime": "0.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptimeMonth": "0.74%",
+    "uptimeYear": "0.74%",
     "time": 796,
     "timeDay": 902,
     "timeWeek": 797,
     "timeMonth": 796,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-02-06": 67,
+      "2025-02-06": 955,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
