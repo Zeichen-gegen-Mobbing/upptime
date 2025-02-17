@@ -7,10 +7,6 @@ sites:
     url: https://zeichen-gegen-mobbing.de
   - name: Url Shortener
     url: https://z-g-m.de/spenden
-  - name: Test Website
-    url: https://jans-allerlei.de/test.html
-    assignees:
-      - WhiteTomX
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
