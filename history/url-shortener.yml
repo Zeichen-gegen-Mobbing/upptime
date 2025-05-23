@@ -1,7 +1,7 @@
 url: https://z-g-m.de/spenden
-status: up
-code: 200
-responseTime: 1966
-lastUpdated: 2025-05-22T23:01:38.243Z
+status: down
+code: 429
+responseTime: 710
+lastUpdated: 2025-05-23T04:52:25.164Z
 startTime: 2025-01-23T17:28:48.254Z
 generator: Upptime <https://github.com/upptime/upptime>
