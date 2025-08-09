@@ -4,9 +4,9 @@
     "url": "https://zeichen-gegen-mobbing.de",
     "icon": "https://icons.duckduckgo.com/ip3/zeichen-gegen-mobbing.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1695,
     "timeYear": 1578,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-04-03": 21
     }
   },
